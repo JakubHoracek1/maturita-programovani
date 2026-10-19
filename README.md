@@ -441,7 +441,7 @@ hanoi(3, "A", "C", "B")   # potřeba 2^n - 1 = 7 tahů
 
 ---
 
-## 8. Rychlé shrnutí na 1 minutu
+## 8. Shrnutí
 
 - **Fáze:** analýza → návrh → implementace → testování → ladění → nasazení → údržba.
 - **Zápis:** slovní popis, vývojový diagram, pseudokód, strukturogram, programovací jazyk (UML).
@@ -454,7 +454,7 @@ hanoi(3, "A", "C", "B")   # potřeba 2^n - 1 = 7 tahů
 
 ---
 
-## 9. Možné doplňující otázky
+## 9. Rychlé otázky
 
 **Čím se liší algoritmus od programu?**
 Algoritmus je abstraktní postup nezávislý na jazyce; program je jeho konkrétní zápis v programovacím jazyce, který lze spustit.
