@@ -1,8 +1,5 @@
 # 1. Algoritmizace
 
-> **Maturitní otázka č. 1 – Programování a vývoj aplikací** (obor 18-20-M/01 Informační technologie, školní rok 2026/2027)
->
-> **Zadání:** fáze vzniku programu, způsoby zápisu programu, algoritmus a jeho vlastnosti, pojmy ladění, testování, sémantika, syntaxe, rekurze.
 
 ## Obsah
 
